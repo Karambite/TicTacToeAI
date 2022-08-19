@@ -14,3 +14,5 @@ How to play?
 
 Example
 - human vs winning AI -> python tictactoeAI.py -p1 h -p2 w
+
+Note - minimax algo is still under testing
